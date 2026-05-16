@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip --version)",
+      "Bash(nvcc --version)",
+      "Bash(nvidia-smi)",
+      "Bash(/c/Users/songjian/AppData/Local/Programs/Python/Python*/python.exe --version)",
+      "Read(//c/Users/songjian/AppData/Local/Programs/**)",
+      "Bash(where conda *)",
+      "Bash(where python *)",
+      "Read(//c/Users/songjian/**)",
+      "Bash(\"/c/Program Files/NVIDIA Corporation/NVSMI/nvidia-smi.exe\")",
+      "Bash(D:/anaconda/Scripts/conda.exe env *)"
+    ]
+  }
+}
